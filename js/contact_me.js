@@ -18,12 +18,14 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://formspree.io/michael.drozdowski@gmail.com",
+                url: "https://s413rh7o4m.execute-api.ap-southeast-2.amazonaws.com/dev/email/me",
                 type: "POST",
                 data: {
                     name: name,
                     phone: phone,
                     email: email,
+                    crossDomain: true,
+                    contentType:    'application/json',
                     message: message
                 },
                 cache: false,
