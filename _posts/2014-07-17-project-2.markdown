@@ -1,15 +1,30 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Meeco
+subtitle: iOS, Web
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: meeco_2.png
+thumbnail: meeco.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: April 2013 - Present
+client: Meeco
+category: iOS, Web
+description: Life Management Platform
 ---
+
+### Overview
+
+Meeco aims to revolutionise and disrupt the data economy by empowering users with taking ownership of their online data. The Meeco team were in need of a full stack development  solution and engaged with NextFaze in 2013 to build their server and apps. The product has had a successful public launch and NextFaze continues to provide ongoing development and support.
+
+### Solution
+
+With Meeco based in Sydney daily standup meetings help to keep everyone up to date on development progress and changing priorities. A continuous deployment server and dedicated testing team allows for quick identification and resolution of issues.
+
+NextFaze have been primary in the overall architectural design of the Meeco platform and provide technical consultation on all areas including implementation of modern technologies which has ensured a seamless and fluid user experience.
+
+### Benefits
+
+* Having a dedicated and consistent development team has given Meeco the flexibility of agile development for new features.
+* Keeping the same team members on the project builds efficiency and trust over time.
+* Using NextFaze for server and client development removes external dependencies and results in quicker feature implementation.

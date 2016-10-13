@@ -1,15 +1,25 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: RallySafe
+subtitle: Android, iOS
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: rallysafe_2.png
+thumbnail: rallysafe.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+client: Status Awareness Systems
+category: Android, iOS
+description: In-car Tracking Information for Rally competitions around the globe
 ---
+
+Follow the competitors in Rally Australia from anywhere with the RallySafe app! Now you can see tracking and timing information live, including all your favourite Australian Rally Championship drivers!
+
+Features:
+
+Live timing and tracking
+Stage select
+Stage times, filtered by class
+Vehicle info
+Stage info displayed on the map
+Event store

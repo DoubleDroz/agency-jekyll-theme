@@ -1,15 +1,30 @@
 ---
-title: Golden
-subtitle: Website Design
+title: iQNECT
+subtitle: Android, iOS
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: iqnect.png
+thumbnail: iqnect.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+client: IQNECT
+category: Android, iOS
+description: Advanced Search Technologies
 ---
+
+### Overview
+
+iQNECT is a brand discoverability tool that utilises the latest technology in computer vision and audio fingerprinting. Based in Singapore, iQNECT contacted NextFaze in 2014 looking for a development team that had the skills to implement a number of complex technologies that drive the iQNECT platform.
+
+### Solution
+
+NextFaze has successfully taken iQNECT from concept through to market and continue to provide development services on eCommerce development, integration and maintenance of iQKit, the SDK that allows third party developers to implement key iQNECT features into their own apps. 
+
+### Benefits
+
+NextFaze have provided:
+
+- Dedicated developers with a broad and knowledgeable skill base.
+- Quick turnaround on new and experimental features.
+- Ongoing consultation, advising on best approach.

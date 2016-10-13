@@ -1,15 +1,23 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Sine
+subtitle: Android, iOS
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: sine.png
+thumbnail: sine.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: April 2015
+client: Sine Group Pty Ltd
+category: Android, iOS
+description: Intelligent Visitor & Contractor Software
 ---
+
+Sine. The mobile check-in App.
+
+Use Sine to check in to meetings, hotels, construction sites and events on the move for free. No more queues, paper sign-in books & plastic badges. Great for visitors, members & contractors.
+
+- Check-in to participating venues with just one tap. Be treated like a VIP
+- Receive notifications when your visitors arrive to see you
+- Keep a private record of your movements at venues you visit
+- Ideal for busy, repeat visitors or contractors requiring continual access to sites and events.

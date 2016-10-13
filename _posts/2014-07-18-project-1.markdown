@@ -1,15 +1,30 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Guvera
+subtitle: Android, iOS
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: guvera.png
+thumbnail: guvera_2.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: January 2011
+client: Guvera
+category: Android, iOS
+description: Multi-platform music streaming application
 ---
+
+### Overview
+
+Guvera approached NextFaze in Jan 2011 looking for a team to support the internal development of their music streaming app for iOS and Android. While our role was initially intended to be short-term, Guvera’s success has resulted in NextFaze providing ongoing development for the past three years.
+
+### Solution
+
+NextFaze’s flexibility has allowed Guvera to manage the project remotely via Jira. Tickets are assigned to the NextFaze team and then internally allocated to the appropriate developer. Source is managed via BitBucket and pull requests are used for code review before being accepted into the main branch.
+The NextFaze and Guvera teams participate in joint daily standup meetings which has helped maintain unified focus.
+
+### Benefits
+
+- Having a dynamically scalable team has meant Guvera can adjust their development output as needed, giving greater control over expenditure.
+- Effective communication has resulted in a high level of confidence and consistency in the work done.
+- NextFaze contributed to Guvera winning  Best Music App at the Australian Mobile Awards in 2013.
+- The app has had over 10 million downloads worldwide.
