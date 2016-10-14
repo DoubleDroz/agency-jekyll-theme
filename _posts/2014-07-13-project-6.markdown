@@ -9,7 +9,9 @@ thumbnail: sine.png
 alt: image-alt
 project-date: April 2015
 client: Sine Group Pty Ltd
-category: Android, iOS
+categories: 
+    - Android
+    - iOS
 description: Intelligent Visitor & Contractor Software
 ---
 
