@@ -9,7 +9,9 @@ thumbnail: meeco.png
 alt: image-alt
 project-date: April 2013 - Present
 client: Meeco
-category: iOS, Web
+categories: 
+    - iOS
+    - Web
 description: Life Management Platform
 ---
 

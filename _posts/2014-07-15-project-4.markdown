@@ -9,7 +9,9 @@ thumbnail: rwy.png
 alt: image-alt
 project-date: April 2014
 client: OzRunways
-category: Android
+categories: 
+    - Android
+    - iOS
 description: Electronic Flight Bag for Pilots
 ---
 

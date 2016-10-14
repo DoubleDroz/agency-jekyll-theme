@@ -9,7 +9,9 @@ thumbnail: guvera_2.png
 alt: image-alt
 project-date: January 2011
 client: Guvera
-category: Android, iOS
+categories: 
+    - Android
+    - iOS
 description: Multi-platform music streaming application
 ---
 

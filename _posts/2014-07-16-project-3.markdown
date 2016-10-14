@@ -9,7 +9,9 @@ thumbnail: iqnect.png
 alt: image-alt
 project-date: April 2014
 client: IQNECT
-category: Android, iOS
+categories: 
+    - Android
+    - iOS
 description: Advanced Search Technologies
 ---
 

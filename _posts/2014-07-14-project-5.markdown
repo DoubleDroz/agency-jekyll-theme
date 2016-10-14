@@ -9,7 +9,9 @@ thumbnail: rallysafe.png
 alt: image-alt
 project-date: April 2014
 client: Status Awareness Systems
-category: Android, iOS
+categories: 
+    - Android
+    - iOS
 description: In-car Tracking Information for Rally competitions around the globe
 ---
 
