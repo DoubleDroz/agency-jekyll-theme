@@ -53,7 +53,7 @@ people:
       url: #
 
 - name: Andreas Wulf
-  pic: andreas
+  pic: andreas_sq
   position: Software Engineer - iOS
   blurb: After receiving his first Macintosh Plus at age 10, Andreas has been administering systems and coding software since his early high school years. Day-to-day, he keeps the NextFaze servers humming, our internal systems buzzing, and the mobile apps churning. When he’s not attached to a computer, he’s out bargain-hunting and keeping the office well stocked in cheap snacks, caffeine, and hardware.
   social:
@@ -69,7 +69,7 @@ people:
       url: #
 
 - name: Alex Waters
-  pic: alex
+  pic: zuck
   position: Android Developer
   blurb: Also known as AW the 3rd, Alex brings some Android smashing, Java yodelling, keyboard canoodling skills to the team. Currently studying a degree in impossibility (B.Eng (Mechatronic) + B.Sc (Biomedical)), he will no doubt drop out at some stage in the near future to develop the T1000 for Cyberdyne Systems
   social: 
