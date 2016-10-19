@@ -10,3 +10,7 @@ layout: style
     height: 200px;
     width: 200px;
 }
+
+.clients .i {
+    color: #{{ site.data.template.color.muted }};
+}
