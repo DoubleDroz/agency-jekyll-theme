@@ -1,0 +1,7 @@
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+User-Agent: *
+Disallow: /
+
+# for jekyll template see: http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/#sitemaps-and-robotstxt
