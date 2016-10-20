@@ -4,7 +4,7 @@ baseurl: ""
 # Site settings
 title: NextFaze
 email: contact@nextfaze.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: The Internet HQ of NextFaze, a delightful software development shop in Adelaide, Australia. Specialising in mobile apps - iOS, Android and Web Development!
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -14,6 +14,8 @@ social:
     url: https://github.com/NextFaze
   - title: bitbucket
     url: https://bitbucket.org/nextfaze
+  - title: facebook
+    url: https://www.facebook.com/nextfaze
 
 # Postal address (add as many lines as necessary)
 address:
