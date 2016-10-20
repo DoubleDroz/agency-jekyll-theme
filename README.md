@@ -1,7 +1,7 @@
-Agency Jekyll theme
-====================
+www.nextfaze.com website
+========================
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/), jekyll-ized by [Rick K.](https://github.com/y7kim/agency-jekyll-theme)
 
 # How to use
 
@@ -27,4 +27,4 @@ Images are in '/img/team/'
 View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
 
 =========
-For more details, read [documentation](http://jekyllrb.com/)
+For more details, read [Jekyll documentation](http://jekyllrb.com/)
