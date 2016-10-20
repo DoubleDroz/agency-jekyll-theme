@@ -4,155 +4,89 @@ people:
   pic: derek
   position: Captain of Captology
   blurb: One of the most recognisable faces among Adelaide's tech-savvy movers and shakers, Derek Munneke has spent a decade and a half working his way up in the IT industry. Originally a developer, Derek has fulfilled roles as varied as manager, salesman, mentor, and social organiser. With vast experience in all aspects of the software lifecycle, Derek brings a passion and dedication to developing good software that few CIOs can claim.
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
 
 - name: Linda Zaccara
   pic: linda
   position: Chief Operations Officer
   blurb: Linda takes of care the mundane things, like business development, operational and financial affairs of the company, and caffeine supply levels. She has been in business for over 15 years and is currently involved in 4 companies. Linda has a range of qualifications from degree’s in both CIS and Philosophy to diploma’s in Life Coaching, and has also written about Artificial Intelligence & Cyborg Theory. Linda is passionate about furthering NextFaze to be the best boutique App Development company in Australia.
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
 - name: Dan Cormick
   pic: danc
   position: Production Manager
   blurb: NextFaze’s prodigal son, Dan puts the prod in producer. With a long history in the games and mobile industry, Dan has had his nose to the grindstone enough to know how to whip the team into action and results. On a personal level, his goals include changing a nappy in under 1 minute, and assembling a 3D printer that actually works.
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 - name: Ric Santos
   pic: ric
   position: Software Engineer - iOS
   blurb: A developer with a professional streak, Ric strives to demonstrate that it’s possible to be a coder and a manager at the same time. Ric’s desire to see polished projects delivered on time and within budget keeps clients happy, staff on their toes, and our bank balance healthy. An avid motor enthusiast, we’re all surprised that he bought a scooter. We were not surprised when he crashed it.
-  social:
-    - title: twitter
-      url: #
 
 - name: Ben Tilbrook
   pic: ben
   position: Software Engineer - Android, iOS
   blurb: No one else at NextFaze is driven by such rabid motivation to get software right as Ben. A mobile developer for years, Ben has seen the rise and fall of many mobile platforms, written software for almost all of them, and at one time or another been forced to slog through thousands of lines of source code to fix their inherent errors. Despite that, his passion for developing high quality apps remains untarnished. We salute you, Ben.
-  social:
-    - title: twitter
-      url: #
 
 - name: Andreas Wulf
   pic: andreas_sq
   position: Software Engineer - iOS
   blurb: After receiving his first Macintosh Plus at age 10, Andreas has been administering systems and coding software since his early high school years. Day-to-day, he keeps the NextFaze servers humming, our internal systems buzzing, and the mobile apps churning. When he’s not attached to a computer, he’s out bargain-hunting and keeping the office well stocked in cheap snacks, caffeine, and hardware.
-  social:
-    - title: twitter
-      url: #
 
 - name: Andrew Williams
   pic: andy
   position: Software Engineer - Android, iOS
   blurb: Seemingly unable to stop writing code, Andrew is the NextFaze equivalent of the boisterous rockstar. Trashing the metaphorical hotel room, Andrew consistently surprises everyone with innovative side projects, reusable libraries, and high-grade internal systems that remain in use for years. We suspect a long-term caffeine addiction, but no one wants to risk mentioning it.
-  social:
-    - title: twitter
-      url: #
 
 - name: Alex Waters
   pic: zuck
   position: Android Developer
   blurb: Also known as AW the 3rd, Alex brings some Android smashing, Java yodelling, keyboard canoodling skills to the team. Currently studying a degree in impossibility (B.Eng (Mechatronic) + B.Sc (Biomedical)), he will no doubt drop out at some stage in the near future to develop the T1000 for Cyberdyne Systems
-  social: 
-    - title: twitter
-      url: #
 
 - name: Luke Fielke
   pic: luke
   position: Android Developer
   blurb: Affectionately know as the Fielkinator, Luke joins us here at NextFaze as the newest member of team Android. A self proclaimed techy, Luke has a fantastic knowledge pool to draw from, backing up his bachelor of comp sci skill set with a black belt in networking and a masters degree from the school of hard knocks. Willing to take on any non-iOS task, Luke also has one of the lucrative office window seats.
-  social:
-    - title: twitter
-      url: #
 
 - name: Michael Drozdowski
   pic: droz
   position: International Bon Vivant
   blurb: Bachelor of the Laws, nerd of the beers and connoisseur of the coffees, Droz joined the team to ‘hang around some real code monkeys.’ He must like the place, because he’s been here long enough to make it on the website! Droz spends his days weilding JIRA and Xcode, wrestling the objective sees, and brewing quite possibly the finest coffee this side of the Himalayas.
-  social:
-    - title: twitter
-      url: #
 
 - name: Zak Barbuto
   pic: zak
   position: Web Developer
   blurb: Armed with a Bachelor of Science in Computing & Digital Media, Zak brings an unending passion for JavaScript and all things web to the NextFaze team. When he’s not at the office, Zak is usually still bound to a computer, trying his hand at development or consuming far more than the recommended daily dose of video games.
-  social:
-    - title: twitter
-      url: #
 
 - name: Dan Silk
   pic: dans
   position: Software Engineer - iOS, Android
   blurb:  > 
     Dan is our cross-platform app magician. He really can do anything! Dan’s background is in gaming, not just playing them, but actually making them! He’s credited for his work on Star Wars: The Clone Wars: Republic Hero (Wii, PS2, PSP) as well as Star Wars: The Force Unleashed (Wii, PS2, PSP) and so many more! You can generally find NextFazer’s skylarking at Dan’s desk either talking code, or cooling down beside his blade-less fan.
-  social:
-    - title: twitter
-      url: #
 
 - name: Kane O'Riley
   pic: kane
   position: Android Developer
   blurb: Spending a majority of his time tearing apart Android from the ground up, Kane is a self-taught developer that lives and breathes the platform. Kane sees Android development as not only a job but a favourite past-time, developing just as much at home as he does at the office, with his name on plenty of indie developed titles.
-  social:
-    - title: twitter
-      url: #
 
 - name: Jeff Cressman
   pic: jeffc
   position: Web Developer
   blurb: NextFaze's resident Emberite. A JavaScript explorer and fermenter of things, Jeff keeps the Meeco front-end looking spick and span. Often found drinking some green and questionable juice from a jar that he claims gives him superhuman abilities and immortality.
-  social:
-    - title: twitter
-      url: #
 
 - name: James Limmer
   pic: james
   position: Web Developer
-  blurb: 
-  social:
-    - title: twitter
-      url: #
+  blurb: James is currently balancing his NextFaze work with his keen interest in machine learning and finishing up a univeristy degree in Comp Sci. We hope that with his developing skillset, he will build a robot that simultaneously replaces Alex *and* gives massages. Favourite colour - "Fallow". 
 
 - name: Shane Woolcock
   pic: shane
   position: iOS Developer
-  blurb: 
-  social:
-    - title: twitter
-      url: #
+  blurb: Shane is an iOS, née Java developer. This about-face shows through in other facets of his life, with his Ingress faction-change request finally coming in - he is now very correctly a memeber of the Resistence, leaving the dark and horrible world of the Enlightened in the same place he left his Java credentials.   
 
 - name: Paul Robinson
   pic: paulr
   position: Web Developer
-  blurb: 
-  social:
-    - title: twitter
-      url: #
+  blurb: Often (mistakenly) credited with the fall of the Roman Empire, Paul nevertheless has an interest in using Malbolge to create modern progressive apps. Also, whenever he opens a terminal window, his computer says "quack". 
 
 - name: Henry Stevens
   pic: henry
   position: Web Developer
   blurb: Developers Developers Developers, Developers,, Developers Developers Developers Developers, Developers Developers Developers, Developers,, Developers Developers Developers Developers, Developers Developers Developers, Developers,, Developers Developers Developers Developers, Developers Developers Developers, Developers,, Developers Developers Developers Developers, v Developers Developers Developers, Developers,, Developers Developers Developers Developers,
-  social:
-    - title: twitter
-      url: #
