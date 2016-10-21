@@ -4,8 +4,6 @@ title: email-disclaimer
 name: email-disclaimer
 layout: page
 description: Email Disclaimer
-output_ext: .html
-permalink: /contact/email-disclaimer
 ---
 
 # Email Disclaimer
