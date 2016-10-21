@@ -6,6 +6,19 @@ title: NextFaze
 email: contact@nextfaze.com
 description: The Internet HQ of NextFaze, a delightful software development shop in Adelaide, Australia. Specialising in mobile apps - iOS, Android and Web Development!
 
+# Collections
+collections:
+  contact:
+    output: true
+
+defaults: 
+  scope:
+      path: ""
+      type: contact
+  values: 
+      layout: page
+
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
