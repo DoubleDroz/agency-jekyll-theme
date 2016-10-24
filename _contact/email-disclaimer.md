@@ -6,7 +6,7 @@ layout: page
 description: Email Disclaimer
 ---
 
-# Email Disclaimer
+# NextFaze Email Disclaimer
 ---
 
 To save bytes, NextFaze company email messages should have the brief statement in the footer:
@@ -23,17 +23,17 @@ This message and any attachments, or any part of it is intended solely for the n
 
 If you have received this message in error, please destroy all copies and notify NextFaze by replying to the sender, or emailing contact@nextfaze.com.
 
-This message may contain confidential information, and/or copyright material of NextFaze or third parties. NextFaze is not responsible for any changes made to a document other than those made by NextFaze, or for the effect of the changes on the documentâ€™s meaning.
+This message may contain confidential information, and/or copyright material of NextFaze or third parties. NextFaze is not responsible for any changes made to a document other than those made by NextFaze, or for the effect of the changes on the document’s meaning.
 
 You should only re-transmit, distribute or commercialise the material if you are authorised to do so. Any views expressed in this message are those of the individual sender. You may not rely on this message as advice unless subsequently confirmed by an authorised representative of NextFaze.
 
-Email disclaimers of this type can be traced back to disclaimers featured in fax messages from lawyers, brokers, major corporations and government agencies. The confidentiality notice is an attempt to say that the content of the email is confidential and that it should not be read by anyone other than the intended recipient.  In practice a disclaimer may have value by demonstrating that the recipient â€“ intended or otherwise â€“ was alerted that the content of the message was copyright and might be of confidential nature.
+Email disclaimers of this type can be traced back to disclaimers featured in fax messages from lawyers, brokers, major corporations and government agencies. The confidentiality notice is an attempt to say that the content of the email is confidential and that it should not be read by anyone other than the intended recipient.  In practice a disclaimer may have value by demonstrating that the recipient – intended or otherwise – was alerted that the content of the message was copyright and might be of confidential nature.
 
 ## SPAM Act 2003
 
 > For the purposes of the SPAM Act 2003, this email is authorised by NextFaze Pty Ltd
 
-The notice in the footer to the effect that the company authorises the message brings the message within certain exemptions from the SPAM Act. Without that statement, some of the companyâ€™s email messages would fall under that Act and would breach various of its obligations. While not every email needs to include this statement by including it in all communications we avoid the risk omitting it when it is needed.
+The notice in the footer to the effect that the company authorises the message brings the message within certain exemptions from the SPAM Act. Without that statement, some of the company’s email messages would fall under that Act and would breach various of its obligations. While not every email needs to include this statement by including it in all communications we avoid the risk omitting it when it is needed.
 
 I recall the [hoo-ha](http://www.youtube.com/watch?v=iV4v-3i5pPU#t=22s) when the SPAM Act came in, and the proliferation of these email signature footers; I still think it added more spam then it stopped..
 
