@@ -2,8 +2,7 @@
   "_aerobatic": {
     "build": {
       "engine": "jekyll"
-    }
-  },
+    },
     "router": [
       {
         "module": "redirect",
@@ -16,3 +15,4 @@
       }
     ]
   }
+}
