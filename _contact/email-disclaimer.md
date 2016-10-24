@@ -6,7 +6,7 @@ layout: page
 description: Email Disclaimer
 ---
 
-# Email Disclaimer
+# NextFaze Email Disclaimer
 ---
 
 To save bytes, NextFaze company email messages should have the brief statement in the footer:
