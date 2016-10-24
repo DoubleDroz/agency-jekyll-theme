@@ -3,6 +3,7 @@
     "build": {
       "engine": "jekyll"
     }
+  }
     "router": [
       {
         "module": "redirect",
