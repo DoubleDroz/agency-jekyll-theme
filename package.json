@@ -2,6 +2,27 @@
   "_aerobatic": {
     "build": {
       "engine": "jekyll"
-    }
+    },
+    "router": [
+      {
+        "module": "redirect",
+        "options": {
+          "/wp-content/uploads/2012/04/nextfaze_logo-SQ-57x57.png": "/contact/nextfaze_email_sig.png"
+        }
+      },
+      
+      {
+        "module": "webpage"
+      },
+
+      {
+        "module": "express-request-proxy",
+        "path": "/slack",
+        "method": "post",
+        "options": {
+          "url": "$SLACK_WEBHOOK"
+        }
+      }
+    ]
   }
 }
