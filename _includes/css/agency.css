@@ -301,7 +301,7 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 50px;
+    font-size: 3.25em;
     font-weight: 700;
     line-height: 50px;
 }
@@ -656,6 +656,10 @@ section h3.section-subheading {
 
 .team-member p {
     margin-top: 0;
+}
+
+aside {
+
 }
 
 aside.clients img {

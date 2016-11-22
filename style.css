@@ -2,6 +2,14 @@
 layout: style
 ---
 
+html, body {
+    overflow-x: hidden;
+}
+
+.header .intro-heading .intro-text {
+    font-size: 3.25em;
+}
+
 .nextfaze {
     font-family: 'Maven Pro';
 }
