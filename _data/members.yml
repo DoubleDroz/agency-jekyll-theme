@@ -71,10 +71,10 @@ people:
   position: Web Developer
   blurb: NextFaze's resident Emberite. A JavaScript explorer and fermenter of things, Jeff keeps the Meeco front-end looking spick and span. Often found drinking some green and questionable juice from a jar that he claims gives him superhuman abilities and immortality.
 
-- name: James Limmer
-  pic: james
+- name: Michael Marner
+  pic: marner
   position: Web Developer
-  blurb: James is currently balancing his NextFaze work with his keen interest in machine learning and finishing up a univeristy degree in Comp Sci. We hope that with his developing skillset, he will build a robot that simultaneously replaces Alex *and* gives massages. Favourite colour - "Fallow". 
+  blurb: After spending a lot of time at University learning about things, Michael can now be properly called "Doctor" Marner - he's completed a PhD investigating interaction and user interface techniques for Spatial Augmented Reality. Years of dabbling with nascent technologies sounds impressive, but what's most remarkable about Marner is that he's somehow the leading authority on PHP in the office. Also he's the chairman of the 3D Radio board, a community radio station in Adelaide. Subscribe to 93.7 FM by clicking <a href='http://www.threedradio.com/product/individual-subscription/'>here</a>
 
 - name: Shane Woolcock
   pic: shane
@@ -89,4 +89,20 @@ people:
 - name: Henry Stevens
   pic: henry
   position: Web Developer
-  blurb: Developers Developers Developers, Developers,, Developers Developers Developers Developers, Developers Developers Developers, Developers,, Developers Developers Developers Developers, Developers Developers Developers, Developers,, Developers Developers Developers Developers, Developers Developers Developers, Developers,, Developers Developers Developers Developers, v Developers Developers Developers, Developers,, Developers Developers Developers Developers,
+  blurb: > 
+    'What are your thoughts about how clickstream convergence impacts brandwidth exploitation? Give me your e-vision, not what you think the digerati want to hear.' "Daria", Season 5, Episode 2.
+
+- name: Mark Verlingieri
+  pic: mark
+  position: Web Developer / CSS Guru
+  blurb: Having trodden the Bachelor of Computer Science path, Mark has spent a few years learning all aspects of a web dev's trade. He has also added "Design" and the related "UX" arrows to his Web Developer's quiver. Always hitting the bullseye with his work, Mark has made clear that he intensely dislikes archery metaphors, which I will aim to remove at a later date.
+
+- name: Caleb Froese
+  pic: henry
+  position: Web Developer
+  blurb: Fresh out of school, Caleb has impressed us enough with his self-taught knowledge to land himself this sweet, sweet job. Previously famous in the office for bringing us donuts with alarming regularity, he has since settled into making sure that his developing programming knowledge has no holes in it (Get it? Donuts have holes). The second Canuck in the squad after Jeff. Is desperately trying to learn languages other than PHP so he doesn't have to help Marner with anything.
+
+- name: Stephen de Bruin
+  pic: stephen_db
+  position: Web Developer
+  blurb: After working for six years as an electrician, Stephen decided that would make a change and push himself into an industry he has always had a passion for. A Diploma in Software development was the start, now he does his best to take in all the knowledge his tiny brain can handle. Spending most of his free time either playing computer games or coding the future is not looking bright for his spinal column. Currently edging Kane for the title of "Best T-Shirts at NextFaze".
