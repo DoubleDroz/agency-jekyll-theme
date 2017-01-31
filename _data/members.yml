@@ -30,11 +30,6 @@ people:
   position: Software Engineer - iOS
   blurb: After receiving his first Macintosh Plus at age 10, Andreas has been administering systems and coding software since his early high school years. Day-to-day, he keeps the NextFaze servers humming, our internal systems buzzing, and the mobile apps churning. When he’s not attached to a computer, he’s out bargain-hunting and keeping the office well stocked in cheap snacks, caffeine, and hardware.
 
-- name: Andrew Williams
-  pic: andy
-  position: Software Engineer - Android, iOS
-  blurb: Seemingly unable to stop writing code, Andrew is the NextFaze equivalent of the boisterous rockstar. Trashing the metaphorical hotel room, Andrew consistently surprises everyone with innovative side projects, reusable libraries, and high-grade internal systems that remain in use for years. We suspect a long-term caffeine addiction, but no one wants to risk mentioning it.
-
 - name: Alex Waters
   pic: zuck
   position: Android Developer
@@ -98,7 +93,7 @@ people:
   blurb: Having trodden the Bachelor of Computer Science path, Mark has spent a few years learning all aspects of a web dev's trade. He has also added "Design" and the related "UX" arrows to his Web Developer's quiver. Always hitting the bullseye with his work, Mark has made clear that he intensely dislikes archery metaphors, which I will aim to remove at a later date.
 
 - name: Caleb Froese
-  pic: henry
+  pic: caleb
   position: Web Developer
   blurb: Fresh out of school, Caleb has impressed us enough with his self-taught knowledge to land himself this sweet, sweet job. Previously famous in the office for bringing us donuts with alarming regularity, he has since settled into making sure that his developing programming knowledge has no holes in it (Get it? Donuts have holes). The second Canuck in the squad after Jeff. Is desperately trying to learn languages other than PHP so he doesn't have to help Marner with anything.
 
@@ -106,3 +101,9 @@ people:
   pic: stephen_db
   position: Web Developer
   blurb: After working for six years as an electrician, Stephen decided that would make a change and push himself into an industry he has always had a passion for. A Diploma in Software development was the start, now he does his best to take in all the knowledge his tiny brain can handle. Spending most of his free time either playing computer games or coding the future is not looking bright for his spinal column. Currently edging Kane for the title of "Best T-Shirts at NextFaze".
+
+- name: Paul Fekete
+  pic: paul_f
+  position: Lead Tester
+  blurb: > 
+    After being banned from Twitter for trolling celebrities, Paul joined NextFaze as a tester to apply his skills as an annoying, pedantic, nitpicker to increase the quality of production output. Disclaimer: some facts may have been modified to fit the bias of whatever media outlet whose agenda you don’t agree with.
